@@ -1,11 +1,10 @@
 This repository contains the [**Recipes Project**](https://www.theodinproject.com/lessons/foundations-recipes) from [The Odin Project](https://www.theodinproject.com) curriculum.  
-It is a simple website built with plain **HTML** that showcases recipes for different dishes.  
+It is a simple website built with plain **HTML** including recipes for different dishes.  
 
-This project demonstrates my understanding of **basic HTML structure, key HTML elements, linking pages, and organizing content in a structured way**.  
+This project demonstrates my understanding of **basic HTML** such as working with text, images, links, and lists.
 
 ## Skills Practiced:
-- Structuring content using **HTML elements**.  
-- Linking pages using **absolute and relative paths** with `<a>` tags.  
-- Working with **text elements** (paragraphs `<p>`, headings `<h1>-<h6>`), and **text formatting elements** (`<strong>`, `<em>`).  
-- Using **lists** (`<ul>` and `<ol>`) for ingredients and cooking steps.
-- Getting familiar with Git and GitHub.
+- Structuring content using **HTML** elements.
+- Linking pages using `<a>` tags.
+- Using **lists**.
+- Getting familiar with **Git** and **GitHub**.
