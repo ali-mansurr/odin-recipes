@@ -6,5 +6,6 @@ This project demonstrates my understanding of **basic HTML structure, key HTML e
 ## Skills Practiced:
 - Structuring content using **HTML elements**.  
 - Linking pages using **absolute and relative paths** with `<a>` tags.  
-- Working with **text elements** (paragraphs `<p>`, headings `<h1>-<h6>`, and formatting elements `<strong>`, `<em>`, etc.).  
-- Using **lists** (`<ul>` and `<ol>`) for ingredients and cooking steps.  
+- Working with **text elements** (paragraphs `<p>`, headings `<h1>-<h6>`), and **text formatting elements** (`<strong>`, `<em>`).  
+- Using **lists** (`<ul>` and `<ol>`) for ingredients and cooking steps.
+- Getting familiar with Git and GitHub.
